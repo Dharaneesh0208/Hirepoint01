@@ -104,11 +104,17 @@ button{
 /* Cards */
 
 .cards{
+    background:darkslategray;
     display:flex;
     justify-content:center;
     flex-wrap:wrap;
     margin-top:40px;
 }
+.cards h2{
+    text-align:center;
+    color:cyan;
+}
+
 
 .card{
     width:220px;
