@@ -110,6 +110,7 @@ button{
 }
 
 .cards h2{
+    text-align:center;
     font-size:60px;
     color:cyan;
 }
