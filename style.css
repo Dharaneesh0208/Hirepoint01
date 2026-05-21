@@ -107,7 +107,6 @@ button{
     display:flex;
     justify-content:center;
     flex-wrap:wrap;
-    background:cyan;
     margin-top:40px;
 }
 
