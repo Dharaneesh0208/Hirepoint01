@@ -97,9 +97,7 @@ button{
     background:darkslategray;
 }
 
-.about h2{
-    color:cyan;
-}
+
 
 /* Cards */
 
@@ -109,6 +107,10 @@ button{
     justify-content:center;
     flex-wrap:wrap;
     margin-top:40px;
+}
+
+.cards h2{
+    color:cyan;
 }
 
 .card{
